@@ -1,0 +1,30 @@
+{
+  "name": "fetch-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project contains fetch api which fetch some data from an external api *** Clone this project into your environment and run these commmand",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh0024/Fetch-Api.git"
+  },
+  "author": "Shubham Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh0024/Fetch-Api/issues"
+  },
+  "homepage": "https://github.com/sh0024/Fetch-Api#readme"
+}
